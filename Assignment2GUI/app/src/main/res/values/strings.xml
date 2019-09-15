@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">GUI Demo - l174444</string>
+    <string name="title_activity_tabbed_activity">tabbed_activity</string>
+    <string name="tab_text_1">Linear</string>
+    <string name="tab_text_2">Relative</string>
+    <string name="tab_text_3">Frame</string>
+    <string name="tab_text_4">Constraint</string>
+    <string name="_3431">3431</string>
+    <string name="follow">Follow</string>
+    <string name="ye_sab_meri_maa_ki_dua_hai">Ye sab meri maa ki dua hai</string>
+    <string name="cute_doggo">Cute Doggo</string>
+    <string name="_6530">6530</string>
+    <string name="_217">217</string>
+    <string name="following">Following</string>
+    <string name="posts">Posts</string>
+    <string name="followers">Followers</string>
+    <string name="this_is_the_frame_layout">This is the frame layout</string>
+    <string name="_14_sep_2018">14/Sep/2018</string>
+    <string name="update">Update</string>
+    <string name="version_2_7">Version 2.7</string>
+    <string name="what_s_new">What\'s new:</string>
+    <string name="version_history">Version History</string>
+    <string name="nothing_camera_it_does_nothing">Nothing Camera: It does nothing :)</string>
+    <string name="improved_apple_music_linking_support">- Improved Apple music linking support.</string>
+    <string name="improved_interafce_on_iphone_23">- Improved interafce on iPhone 23</string>
+    <string name="_4_age">4+ Age</string>
+    <string name="also_included_in">Also included in:</string>
+    <string name="_23_47">$23.47</string>
+    <string name="_4_9">4.9</string>
+    <string name="coaldev_llc">CoalDev LLC</string>
+    <string name="preview">Preview:</string>
+    <string name="learn_java_doing_nothing">Learn Java: Doing nothing !</string>
+    <string name="todo">TODO</string>
+    <string name="it_can_replace_your_selfie_with_a_better_selfie_from_internet">- It can replace your selfie with a better selfie from internet.</string>
+
+</resources>
